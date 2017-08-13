@@ -15,6 +15,10 @@ Laravel Passport is an OAuth2 server and API authentication package that is simp
 
 Documentation for Passport can be found on the [Laravel website](http://laravel.com/docs/master/passport).
 
+## Adding Multi Tenant Support
+
+Lorem Ipsum
+
 ## License
 
 Laravel Passport is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
